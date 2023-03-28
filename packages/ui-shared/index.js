@@ -1,4 +1,4 @@
-const Greeting = () => <div>Hello!</div>
+const Greeting = () => <div>monorepo-npm workspaces</div>
 
 module.exports = {
   Greeting
